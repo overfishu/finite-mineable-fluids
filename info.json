@@ -1,0 +1,10 @@
+{
+  "name": "finite-mineable-fluids",
+  "version": "0.0.1",
+  "title": "Finite Mineable Fluids",
+  "author": "overfishu",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0"],
+  "description": "This mod makes mineable fluids finite."
+}
+
